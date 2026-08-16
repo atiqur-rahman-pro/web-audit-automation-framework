@@ -19,7 +19,7 @@
 
 View the **live automated Allure execution report** with historical trends, pie charts, and detailed test step breakdowns:
 
-### 👉 [**https://rahman-pro.github.io/web-audit-automation-framework/**](https://rahman-pro.github.io/web-audit-automation-framework/)
+### 👉 [**https://atiqur-rahman-pro.github.io/web-audit-automation-framework/**](https://atiqur-rahman-pro.github.io/web-audit-automation-framework/)
 
 ---
 
@@ -75,7 +75,7 @@ flowchart TB
 
     subgraph DEPLOY["🚀 Deployment"]
         K --> L["Deploy to GitHub Pages<br/>gh-pages branch"]
-        L --> M["Live Dashboard<br/>rahman-pro.github.io"]
+        L --> M["Live Dashboard<br/>atiqur-rahman-pro.github.io"]
     end
 
     style TRIGGER fill:#1a1a2e,stroke:#e94560,color:#fff
@@ -197,7 +197,7 @@ web-audit-automation-framework/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rahman-Pro/web-audit-automation-framework.git
+git clone https://github.com/atiqur-rahman-pro/web-audit-automation-framework.git
 cd web-audit-automation-framework
 ```
 
@@ -250,7 +250,7 @@ Specializing in designing and building **enterprise-grade test automation framew
 | | |
 |:---|:---|
 | 🔗 **LinkedIn** | [**linkedin.com/in/atiqur-rahman-pro**](https://www.linkedin.com/in/atiqur-rahman-pro/) |
-| 🐙 **GitHub** | [**github.com/Rahman-Pro**](https://github.com/Rahman-Pro) |
+| 🐙 **GitHub** | [**github.com/atiqur-rahman-pro**](https://github.com/atiqur-rahman-pro) |
 
 ### Core Competencies
 `Python` `Java` `Pytest` `Selenium WebDriver` `Playwright` `Rest Assured` `Allure Reports` `GitHub Actions` `CI/CD Pipelines` `API Testing` `Performance Testing` `Web Automation` `Cross-Browser Testing` `BDD/TDD` `Agile/Scrum`
